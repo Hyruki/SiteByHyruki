@@ -1,0 +1,24 @@
+#interface{
+    height : 800px; 
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 2%;
+    background-color: gray;
+}
+body{
+    background-image: url('../img/discord\ img.png');
+}
+
+h1
+{
+    color: brown;
+}
+
+#button{
+    margin-top: 10px;
+}

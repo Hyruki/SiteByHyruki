@@ -1,0 +1,21 @@
+h1
+{
+    color: red;
+}
+body{
+    background-image: url('../img/riviere.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#main_page{
+    height: 800px;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    border-width: 2px;
+    border-color: brown;
+    background-color: brown;
+    border-style: solid;
+    border-radius: 2%;
+}
